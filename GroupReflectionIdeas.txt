@@ -1,0 +1,18 @@
+UI:
+	Visualize annonymized list of people in queue to go next
+	Timer when person starts
+	List of things to think about that you may want to say
+	
+Structure:
+	X people go/speak
+	N time to speak/person
+	Possible time for others to share thoughts, propose questions, affirmations
+	Last person to go is just silent time where those who did not get a chance to all speak (everyone on mute). This way everyone gets to go. During this time, there is prompted thought exercises by facilitator
+	
+	Prompted questions, exercises:
+		Consider a moment that made you happy today
+
+Notes/Thoughts:
+	We can let people create an account. When they join the 'session', they are given an annoymized token/icon (little animals, or something like what google does for google docs). User can choose from a list. 
+	When a user is speaking, others listening can provide thought/questions/feedback. This feedback does not go to the user. Instead, it gets added to a log. We create a period of time that must pass before a user can go back and look at this.
+		The reason for this is that we do not want the person speaking to rely on the feedback from others in order to feel that they are improving. They should not seek validation from the thoughts/questions/feedback that others provide. 
